@@ -9,11 +9,11 @@ public class Main {
         pet1.eat(0.25f);
 
         Dog pet2 = new Dog();
-        pet2.setName("Spot");
-        pet2.setBreed("Labrador");
+        pet2.setName("Andy");
+        pet2.setBreed("Rat Terrier");
 
         Cat pet3 = new Cat();
-        pet3.setName("Buttons");
+        pet3.setName("Figaro");
 
         System.out.println(pet1);
         System.out.println(pet2);
